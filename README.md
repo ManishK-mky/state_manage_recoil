@@ -44,7 +44,7 @@ npm i recoil
 6) selector
 
 
-===========================================
+===========================================<br>
 3) useRecoilState ---> is just like useState() hook - It will give the both ---> the value and the function to update the value
 
 4) useRecoilValue ---> (just like "count" in ---> 
